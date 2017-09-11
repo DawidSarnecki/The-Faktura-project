@@ -1,0 +1,21 @@
+  -------------------
+ | >  Baza Firm      |
+  -------------------
+ >> Poz. [1] w Bazie Firm
+ DANE FIRMY-----------------------
+ : Nazwa: [[[[[[[[[[[[
+ : NIP: no_input_NIP
+ : Adres: no_input no_input; no_input no_input
+ : Osoba upowazniona: .......................
+----------------------------------
+ >> Poz. [2] w Bazie Firm
+ DANE FIRMY-----------------------
+ : Nazwa: ppppppppppppp
+ : NIP: no_input_NIP
+ : Adres: no_input no_input; no_input no_input
+ : Osoba upowazniona: .......................
+----------------------------------
+	Razem pozycji w Bazie Firm: 2
+
+	DATA WYDRUKU: 26-1-2016
+
